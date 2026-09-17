@@ -30,7 +30,6 @@ Soy Adrián, estudiante del **Ciclo Superior de Desarrollo de Aplicaciones Multi
 
 </div>
 
-> ✏️ Ajusta este bloque de badges según las tecnologías que realmente uses o vayas aprendiendo.
 
 <br>
 
