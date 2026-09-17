@@ -11,7 +11,6 @@
 Soy Adrián, estudiante del **Ciclo Superior de Desarrollo de Aplicaciones Multiplataforma (DAM). Estoy dando mis primeros pasos como desarrollador mientras compagino los estudios con otros proyectos personales.
 
 - 🎓 Actualmente cursando DAM
-- ⌚ Aficionado a los relojes (Seiko, Tissot) y al mundo de la inversión
 - 📍 Vigo, Galicia (España)
 
 <br>
