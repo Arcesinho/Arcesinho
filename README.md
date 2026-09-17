@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&color=2F80ED&center=true&vCenter=true&width=600&lines=%C2%A1Hola%2C+soy+Adri%C3%A1n!;Estudiante+de+DAM;Aprendiendo+a+programar+aplicaciones" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&color=2F80ED&center=true&vCenter=true&width=600&lines=%C2%A1Hola%2C+MUNDO%C3%A1n!;Estudiante+de+DAM;Aprendiendo+a+programar+aplicaciones" alt="Typing SVG" />
 
 </div>
 
@@ -8,11 +8,9 @@
 
 ## 👋 Sobre mí
 
-Soy Adrián, estudiante del **Ciclo Superior de Desarrollo de Aplicaciones Multiplataforma (DAM)** en Vigo, Galicia. Estoy dando mis primeros pasos como desarrollador mientras compagino los estudios con otros proyectos personales.
+Soy Adrián, estudiante del **Ciclo Superior de Desarrollo de Aplicaciones Multiplataforma (DAM). Estoy dando mis primeros pasos como desarrollador mientras compagino los estudios con otros proyectos personales.
 
-- 🎓 Actualmente cursando DAM (régimen presencial/adultos)
-- 🌱 Aprendiendo sobre redes, XML/XSLT y Active Directory como parte del ciclo
-- 🚗 En mi tiempo libre trasteo con mi Toyota Corolla E120, reparaciones y mantenimiento DIY
+- 🎓 Actualmente cursando DAM
 - ⌚ Aficionado a los relojes (Seiko, Tissot) y al mundo de la inversión
 - 📍 Vigo, Galicia (España)
 
